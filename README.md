@@ -11,3 +11,5 @@ Son gönderim tarihi 12.12.2021 23:59:59
 * Modüldeki bazı fonksiyonlar return ile sonucu yollarken bazıları doğrudan print ile sonucu ekrana basmalıdır. 
 * Modüldeki bazı fonksiyonlar içerisine parametre almalıdır. 
 * Uygulama dosyası içerisinden modülde oluşturulan tüm fonksiyonlar (import) çağrılarak test yapılmalıdır. 
+[dosya1.zip](https://github.com/okuybs/odev_python_module/files/7699855/dosya1.zip)
+[dosya2.zip](https://github.com/okuybs/odev_python_module/files/7699856/dosya2.zip)
